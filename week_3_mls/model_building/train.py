@@ -9,8 +9,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
 # for model serialization
 import joblib
-import mlflow 
-for model serialization
+import mlflow
 
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("mlops-training-experiment")
