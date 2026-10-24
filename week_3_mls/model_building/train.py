@@ -7,7 +7,7 @@ from sklearn.pipeline import make_pipeline
 import xgboost as xgb
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
-# for model serialization
+for model serialization
 import joblib
 import mlflow
 
