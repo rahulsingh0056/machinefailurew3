@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report
 # for model serialization
 import joblib
 import mlflow 
-# for model serialization
+for model serialization
 
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("mlops-training-experiment")
